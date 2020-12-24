@@ -10,7 +10,7 @@ The sketches, using the 10 Plus 10 method, can be viewed [here](https://github.c
 ## Framer
 The interactive high-fidelity computer prototype can be found [here](https://framer.com/share/github-co-design--fXFzZ0bF0G47aCZMQoDg/sqgMqrw4L).
 
-The following image shows proposed changes to the home page of a repository to include a place for end users to contribute and be listed as collaborators.
+The following image shows proposed changes to the side bar along the home page of a repository to include a place for end users to contribute and be listed as collaborators.
 
 ![enduser contributors](https://github.com/jazlynhellman/oss-codesign/blob/main/prototype_enduser.jpg)
 
