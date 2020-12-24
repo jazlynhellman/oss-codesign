@@ -8,4 +8,4 @@ As open source software (OSS) teams become increasingly asynchronous, there are 
 The interactive high-fidelity computer prototype can be found [here](https://framer.com/share/github-co-design--fXFzZ0bF0G47aCZMQoDg/sqgMqrw4L).
 
 ## Sketches
-The sketches, using the 10 Plus 10 method, can be viewed here.
+The sketches, using the 10 Plus 10 method, can be viewed[here](https://github.com/jazlynhellman/oss-codesign/tree/main/Sketches%20-%20GitHub%20OSS%20Co-design).
