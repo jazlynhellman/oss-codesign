@@ -8,8 +8,13 @@ As open source software (OSS) teams become increasingly asynchronous, there are 
 The sketches, using the 10 Plus 10 method, can be viewed [here](https://github.com/jazlynhellman/oss-codesign/tree/main/Sketches%20-%20GitHub%20OSS%20Co-design).
 
 ## Framer
-The interactive high-fidelity computer prototype can be found [here](https://framer.com/share/github-co-design--fXFzZ0bF0G47aCZMQoDg/sqgMqrw4L).
+The interactive high-fidelity computer prototype can be explored [here](https://framer.com/share/github-co-design--fXFzZ0bF0G47aCZMQoDg/sqgMqrw4L) on Framer.
 
+Below is a diagram overview of the proposed system.
+
+![Prototype Image Overview (2)](https://user-images.githubusercontent.com/41638801/145074555-62873817-80b2-43fe-b6c2-a29de8c01416.png)
+
+## Design considerations
 The following image shows proposed changes to the side bar along the home page of a repository to include a place for end users to contribute and be listed as collaborators.
 
 ![enduser contributors](https://github.com/jazlynhellman/oss-codesign/blob/main/prototype_enduser.jpg)
